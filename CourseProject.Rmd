@@ -5,6 +5,7 @@ date: "Sunday, September 21, 2014"
 output: html_document
 ---
 **Executive Summary**
+
 People regularly quantify how much of a particular activity they do, but they rarely quantify how well they do it. In this project, the goal will be to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants to predict the quality of barbell lifts, classified in 5 different ways.
 
 After data cleaning and exploration several models where tested with random forests as the best predicting (out of sample accuracy: 99.5%).
